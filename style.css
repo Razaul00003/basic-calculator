@@ -1,0 +1,11 @@
+.outer {
+  height: 10vh;
+}
+.calculator {
+  height: 700px;
+  width: 520px;
+  margin: auto auto;
+}
+.display {
+  overflow-x: auto;
+}
